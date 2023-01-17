@@ -1,8 +1,8 @@
-# To do list server
+# To do list service
 
-This is a simple to do list server for learning HTTP method
+This is a simple to do list service for learning HTTP method
 
-Run the to do server with
+Run the to do service with
 
 ```js
 npm install

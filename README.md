@@ -72,7 +72,7 @@ Body
 
 ```json
 {
-    "isComplete": 1
+    "isComplete": true
 }
 ```
 

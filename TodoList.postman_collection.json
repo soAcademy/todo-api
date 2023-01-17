@@ -101,7 +101,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"isComplete\": 1}",
+					"raw": "{\"isComplete\": true}",
 					"options": {
 						"raw": {
 							"language": "json"
